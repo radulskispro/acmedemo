@@ -10,6 +10,7 @@ private section.
   methods GET_ANVIL .
   methods GET_BIRD_SEEDS .
   methods GET_TORNADO_KIT .
+  methods GET_TORNADO_KIT_ECC .
 ENDCLASS.
 
 
@@ -26,5 +27,12 @@ CLASS ZCL_ACME_LABS IMPLEMENTATION.
 
 
   method GET_TORNADO_KIT.
+  endmethod.
+
+
+  method GET_TORNADO_KIT_ECC.
+
+***coyote runs tornado kit on oracle
+
   endmethod.
 ENDCLASS.
