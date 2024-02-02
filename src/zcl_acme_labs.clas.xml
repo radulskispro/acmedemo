@@ -11,6 +11,14 @@
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
    </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ACME_LABS</CLSNAME>
+     <CMPNAME>GET_ROADRUNNER_S4HANA</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Beep Beep</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>
