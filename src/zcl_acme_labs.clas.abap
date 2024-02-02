@@ -34,5 +34,9 @@ CLASS ZCL_ACME_LABS IMPLEMENTATION.
 
 ***coyote runs tornado kit on oracle
 
+
+
+***INC 0001 - Validacao xpto
+
   endmethod.
 ENDCLASS.
