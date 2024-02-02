@@ -11,6 +11,7 @@ private section.
   methods GET_BIRD_SEEDS .
   methods GET_TORNADO_KIT .
   methods GET_TORNADO_SEEDS_S4_HANA .
+  methods GET_ROADRUNNER_S4HANA .
 ENDCLASS.
 
 
@@ -23,6 +24,16 @@ CLASS ZCL_ACME_LABS IMPLEMENTATION.
 
 
   method GET_BIRD_SEEDS.
+  endmethod.
+
+
+  method GET_ROADRUNNER_S4HANA.
+
+    IF 1 = 2.
+
+*    beep beep
+
+    ENDIF.
   endmethod.
 
 
